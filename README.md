@@ -1,4 +1,4 @@
-# ar-intdig2022
+# ar-tec-cimdufla
 Repositório de AR de Tecnologias Emergentes
 ## Boas-vindas ao nosso repositório da Aula de Realidade Aumentada
 
