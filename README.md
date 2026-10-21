@@ -1,6 +1,6 @@
 # ar-intdig2022
-Repositório de AR de IntDig 2022/1
-## Boas-vindas ao nosso repositório da Aula 8 de Inteligência Digital - Realidade Aumentada 3
+Repositório de AR de Tecnologias Emergentes
+## Boas-vindas ao nosso repositório da Aula de Realidade Aumentada
 
 Confira as atividades:
 [Gerando caixa em teste](https://ricmrios.github.io/ar-intdig2022/testear.html)
